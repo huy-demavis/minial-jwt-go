@@ -1,0 +1,4 @@
+{
+    "connection_string": "{MYSQL_USERNAME}:{MYSQL_PASSWORD}@tcp(127.0.0.1:3306)/{MYSQL_DBNAME}",
+    "port": 8080
+}
