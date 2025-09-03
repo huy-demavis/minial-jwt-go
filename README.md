@@ -1,4 +1,4 @@
-# Minial JWT Go
+# Minimal JWT Go
 
 [![Go Version](https://img.shields.io/badge/go-1.22+-blue.svg)](https://golang.org/doc/devel/release.html)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
