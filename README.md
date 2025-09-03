@@ -25,8 +25,8 @@ This project demonstrates secure user authentication, role-based access, middlew
 
 ### Installation
 ```bash
-git clone https://github.com/huy-demavis/minial-jwt-go.git
-cd minial-jwt-go
+git clone https://github.com/huy-demavis/minimal-jwt-go.git
+cd minimal-jwt-go
 cp .env.example .env
 go mod tidy
 go run main.go
